@@ -1,0 +1,9 @@
+{
+  "name": "alura-sqs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.911.0"
+  }
+}
